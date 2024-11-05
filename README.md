@@ -2,10 +2,10 @@
 ## Overview:
 ## This project classifies MRI brain scans into four categories using a convolutional neural network (CNN):
 
-## Glioma
-## Meningioma
+## Glioma Tumor
+## Meningioma Tumor
 ## No Tumor
-## Pituitary
+## Pituitary Tumor
 ### The model assists in brain tumor diagnosis by identifying the type of tumor present in MRI images.
 
 # Project Structure
