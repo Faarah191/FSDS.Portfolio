@@ -1,4 +1,4 @@
-# Brain Tumor Classification Project
+# Automated Brain Tumor Classification via CNNs
 ## Overview:
 ## This project classifies MRI brain scans into four categories using a convolutional neural network (CNN):
 
